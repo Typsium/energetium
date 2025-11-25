@@ -1,8 +1,8 @@
 # Energetium
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Typst Package](https://img.shields.io/badge/typst-package-239dad.svg)](https://typst.app/)
-[![Version](https://img.shields.io/badge/version-0.1.0-green.svg)](https://github.com/yourusername/energetium)
+[![Typst Package](https://img.shields.io/badge/dynamic/toml?url=https%3A%2F%2Fraw.githubusercontent.com%2FTypsium%2Fenergetium%2Fmain%2Ftypst.toml&query=%24.package.version&prefix=v&logo=typst&label=package&color=239DAD)](https://typst.app/universe/package/energetium)
+[![MIT License](https://img.shields.io/badge/license-MIT-blue)](https://github.com/Typsium/energetium/blob/main/LICENSE)
+[![User Manual](https://img.shields.io/badge/manual-.pdf-purple)](https://raw.githubusercontent.com/Typsium/energetium/main/docs/manual.pdf)
 
 **Energetium** is a Typst package for chemistry energetics and kinetics calculations.
 
